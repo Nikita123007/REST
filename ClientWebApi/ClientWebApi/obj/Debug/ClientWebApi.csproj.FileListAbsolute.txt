@@ -1,0 +1,27 @@
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\ClientWebApi.exe.config
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\ClientWebApi.exe
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\ClientWebApi.pdb
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\Tavis.UriTemplates.dll
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\Tavis.UriTemplates.pdb
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\obj\Debug\ClientWebApi.exe
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\obj\Debug\ClientWebApi.pdb
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\HalClient.Net.dll
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\bin\Debug\HalClient.Net.pdb
+C:\Users\iland\Code\lab5\ClientWebApi\ClientWebApi\obj\Debug\ClientWebApi.csprojResolveAssemblyReference.cache
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\ClientWebApi.exe.config
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\obj\Debug\ClientWebApi.exe
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\obj\Debug\ClientWebApi.pdb
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\ClientWebApi.exe
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\ClientWebApi.pdb
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\HalClient.Net.dll
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\Newtonsoft.Json.dll
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\System.Net.Http.Formatting.dll
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\Tavis.UriTemplates.dll
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\HalClient.Net.pdb
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\Newtonsoft.Json.xml
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\System.Net.Http.Formatting.xml
+D:\учеба\4 семестр\лабы\КСиС\Лаба 5\lab5\ClientWebApi\ClientWebApi\bin\Debug\Tavis.UriTemplates.pdb
